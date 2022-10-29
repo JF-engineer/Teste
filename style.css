@@ -1,0 +1,105 @@
+body{
+    background-color:bisque;
+    text-align: center;
+    color: purple;
+    font-family: monospace;
+    font-size: 12px;
+}
+footer{
+    position: absolute;
+    top: 880px;
+}
+#mim{
+    position: absolute;
+    width: 290px;
+    height: 35px;
+    outline: none;
+    background-color: bisque;
+    border: 0.5px solid purple;
+    top: 120px;
+    left: 50px;
+    color: purple;
+    border-radius: 15px;
+}
+#nos{
+    position: absolute;
+    width: 290px;
+    height: 35px;
+    outline: none;
+    background-color: bisque;
+    border: 0.5px solid purple;
+    top: 180px;
+    left: 50px;
+    color: purple;
+    border-radius: 15px;
+}
+#nos:active,#mim:active{
+    background-color: purple;
+    border: bisque;
+    color: bisque;
+}
+/*Pagina nós*/ 
+#briga{
+    position: absolute;
+    background-color: bisque;
+    width: 180px;
+    height: 25px;
+    outline: none;
+    border: 0.5px solid purple;
+    top: 250px;
+    left: 10px;
+    color: purple;
+    border-radius: 15px;
+}
+#ciume{
+    position: absolute;
+    background-color: bisque;
+    width: 180px;
+    height: 25px;
+    outline: none;
+    border: 0.5px solid purple;
+    top: 250px;
+    left: 200px;
+    color: purple;
+    border-radius: 15px;
+}
+#insegurança{
+    position: absolute;
+    background-color: bisque;
+    width: 180px;
+    height: 25px;
+    outline: none;
+    border: 0.5px solid purple;
+    top: 200px;
+    left: 10px;
+    color: purple;
+    border-radius: 15px;
+}
+#futuro{
+    position: absolute;
+    background-color: bisque;
+    width: 180px;
+    height: 25px;
+    outline: none;
+    border: 0.5px solid purple;
+    top: 200px;
+    left: 200px;
+    color: purple;
+    border-radius: 15px;
+}
+#frase{
+    position: absolute;
+    background-color: white;
+    top: 300px;
+    left: 5px;
+    font-size: 35px;
+    border-radius: 10px;
+}
+#zm{
+    position: absolute;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    top: 350px;
+    left: 120px;
+    font-size: 25px;
+}
